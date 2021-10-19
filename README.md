@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OperationOWL
 - 👀 I’m interested in ... Robotics, Game Developement, IOT, Data structures and Algorithms
-- 🌱 I’m currently learning ... CCNA, C++, Django, Flask
+- 🌱 I’m currently learning ... CCNA, C++, Flask, Computer vision
 - 💞️ I’m looking to collaborate on ... Anything pretty much
 - 📫 How to reach me ... Mail me at operationowl4@gmail.com
 
